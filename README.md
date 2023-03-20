@@ -44,4 +44,4 @@ Buatlah sebuah program time server dengan ketentuan sebagai berikut
 - Pada Class TimeServer, terdapat fungsi untuk menyimpan objek dari ProcessTheClient, membuat socket server, dan menjalankan server.
 
 ## Capture Hasil Running Server
-<img src="https://user-images.githubusercontent.com/70510279/226325348-a3d22d0f-e253-46c1-a6a4-b6b8d2262865.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/70510279/226326517-28361bde-7040-4926-a202-7af80784a5e3.png" width="700"/>
